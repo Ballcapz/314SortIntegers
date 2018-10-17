@@ -1,0 +1,18 @@
+x86 assembly program that reads in 10 integers from the user
+then sorts them and prints them out.
+
+Use:
+./<exec>
+int
+int
+int
+int
+int
+int
+int
+int
+int
+int
+
+
+OUTPUT

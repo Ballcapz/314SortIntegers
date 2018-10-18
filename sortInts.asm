@@ -5,7 +5,7 @@ segment .data
 	arr		dd	2, 3, 5, 12, 78, 34, 2, 33, 8, 10
 
 segment .bss
-	sortedArr	resd	10
+
 segment .text
 	global  asm_main
 
